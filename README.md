@@ -26,8 +26,10 @@ Hi there! 👋
 
 ### 📊 GitHub Stats
 <!-- GitHub Stats - Modo Oscuro -->
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anblanco42&show_icons=true&theme=radical&hide_border=true&count_private=true#gh-dark-mode-only" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anblanco42&layout=compact&theme=radical&hide_border=true#gh-dark-mode-only" />
+</div>
 <!-- GitHub Stats - Modo Claro
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anblanco42&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anblanco42&layout=compact&theme=default&hide_border=true#gh-light-mode-only" />
