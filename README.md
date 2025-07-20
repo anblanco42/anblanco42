@@ -5,7 +5,7 @@ Hi there! 👋
 - 🔭 I'm Andres Blanco, a passionate coder with a focus on computer science projects.
 - 🚀 I enjoy working on projects using C and Makefile, showcasing my low-level programming skills.
 - 🌱 Currently, my GitHub profile consists of 6 public repositories and 23 commits, emphasizing quality over quantity in my coding habits.
-- 👯 I have repositories like "philosophers," "Minitalk," and "push_swap_def" that highlight my interest in various computer science concepts.
+<!-- - 👯 I have repositories like "philosophers," "Minitalk," and "push_swap_def" that highlight my interest in various computer science concepts. -->
 
 ### Skills
 
