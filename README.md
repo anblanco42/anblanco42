@@ -22,7 +22,7 @@ Hi there! 👋
 ### Contact Me
 
 - 📫 You can reach out to me at [LinkedIn](https://www.linkedin.com/in/andres-bm/)
-- 📧 Email: andres.blanco@example.com
+- 📧 Email: andresjbm1802@gmail.com
 
 ### 📊 GitHub Stats
 <!-- GitHub Stats - Modo Oscuro -->
